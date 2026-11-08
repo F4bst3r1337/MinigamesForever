@@ -29,4 +29,8 @@ To build a release archive, zip the `MinigamesForever` folder so that it is the 
 
 Each game is its own Lua file that registers itself with `MG.RegisterGame`, builds its UI with `MG.NewPage` and adds its texts with `MG.AddLocale`. Add the file to `MinigamesForever.toc` after `Core.lua`. See `Game2048.lua` for a compact example.
 
+## License
+
+MIT, see [LICENSE](LICENSE).
+
 *Vibe-coded by @f4bst3r*
