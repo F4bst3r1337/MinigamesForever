@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Minigames Forever
+## Notes: A collection of simple minigames to play while you're on a 10-minute flight, waiting out Resurrection Sickness, or doing something else.
+## Notes-deDE: Eine Sammlung einfacher Minispiele für einen 10-minütigen Flug, die Wartezeit der Wiederbelebungsschwäche oder einfach zwischendurch.
+## Author: f4bst3r
+## Version: 0.4
+## SavedVariables: MinigamesForeverDB, BejeweledForeverDB
+
+Core.lua
+Bejeweled.lua
+Blackjack.lua
+Game2048.lua
